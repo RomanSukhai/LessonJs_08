@@ -1,0 +1,32 @@
+.this_text{
+    display: block;
+}
+.this_test_remove{
+display: none;
+}
+.position{
+    position: absolute;
+    left: 0;
+    top: 40px;
+}
+.position2{
+    position: absolute;
+    left: 0;
+    top: 70px;
+}
+.block_for_menu{
+    width: 200px;
+    height: 170px;
+    border: 1px black solid;
+}
+.block_for_menu2{
+    width: 200px;
+    height: 70px;
+    border: 1px black solid;
+}
+.button{
+    width: 90%;
+    height: 42px;    
+    border-radius: 20%;
+    margin: 8px;
+}
